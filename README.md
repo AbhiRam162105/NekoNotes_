@@ -35,7 +35,7 @@ Need a quick refresher? Ask questions related to your notes, and our AI will pro
 - **HTML and CSS**: Crafting the beautiful UI.
 - **TailwindCSS**: Adding a dash of style for that modern look.
 - **MongoDB**: For storing the data dynamically.
-- **Docker**:To create a container to maintain a constant environment on every system and 
+- **Docker**:To create a container to maintain a constant environment on every system.
 
 ## Getting Started with Docker
 
