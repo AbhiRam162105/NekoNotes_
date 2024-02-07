@@ -50,6 +50,7 @@ docker build -t neko-notes .
 # Run the Docker container
 docker run -p 3000:3000 neko-notes
 
+```
 ## Usage
 
 1. **Formatting**: Use the toolbar for formatting options.
